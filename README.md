@@ -1,0 +1,1 @@
+As GSAP MorphSVG works either with subscription or on Codepen, check out my website here -> https://codepen.io/ns_dojo/full/MWyLEXG
